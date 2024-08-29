@@ -2,6 +2,9 @@
 
 This project is a face recognition-based attendance system that detects and identifies employees in a group photo. The system uses YOLO for face detection and the `face_recognition` library for recognizing known faces based on pre-saved images.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sajithamma/face-detection/blob/main/face-detection-yellowzapp.ipynb)
+
+
 ## Features
 
 - **Face Detection**: Detects faces in a group photo using YOLO.
